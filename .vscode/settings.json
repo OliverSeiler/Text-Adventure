@@ -1,0 +1,20 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "javascript.format.semicolons": "remove",
+  "javascript.format.enable": true,
+  "css.format.enable": true,
+  "html.format.enable": true,
+  "javascript.preferences.quoteStyle": "single",
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "javascript.inlayHints.parameterNames.enabled": "literals",
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "javascript.inlayHints.variableTypes.enabled": true,
+  "git.allowNoVerifyCommit": false,
+  "git.enableCommitSigning": true,
+  "css.format.maxPreserveNewLines": 2,
+  "css.lint.zeroUnits": "warning",
+  "html.format.maxPreserveNewLines": 1,
+  "html.format.wrapAttributes": "aligned-multiple"
+}
